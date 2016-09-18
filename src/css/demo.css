@@ -1,0 +1,10 @@
+.display-flex{
+    display: flex;
+}
+.display-inline-block{
+    display: inline-block;
+}
+.foo{
+   opacity: .96;
+    display: inline-block;
+}

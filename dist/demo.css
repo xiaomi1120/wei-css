@@ -1,0 +1,18 @@
+.display-flex{
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: -webkit-box;
+    display: flex;
+}
+.display-inline-block{
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+}
+.foo{
+   opacity: .96;
+   filter: alpha(opacity=96);
+    display: inline-block;
+    *display: inline;
+    *zoom: 1;
+}
