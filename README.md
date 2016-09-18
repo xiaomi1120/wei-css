@@ -1,4 +1,4 @@
-# wei-css PostCSS Usage —— 一种更优雅、更简单的书写CSS方式
+# PostCSS Usage —— 一种更优雅、更简单的书写CSS方式
 
 > 构建工具为[Gulp](https://github.com/gulpjs/gulp)
 > 基于[PostCSS](https://github.com/postcss/postcss)
@@ -19,4 +19,3 @@
 ## 使用
 
 > gulp
-
